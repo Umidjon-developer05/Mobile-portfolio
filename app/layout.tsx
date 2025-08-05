@@ -26,6 +26,14 @@ export const metadata: Metadata = {
   creator: "Umidjon",
   openGraph: {
     title: "AppNest - Your Mobile App Showroom",
+    images: [
+      {
+        url: "https://vexapa6rrv.ufs.sh/f/UyaRlVC80oNDt5wotSMvqu6QPeRpylWMdFSZCJiUnI2trVzD",
+        width: 1200,
+        height: 630,
+        alt: "AppNest - Your Mobile App Showroom",
+      },
+    ],
     description: "Discover beautiful and useful mobile apps crafted with care",
     type: "website",
     locale: "en_US",
